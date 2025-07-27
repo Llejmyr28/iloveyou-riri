@@ -1,10 +1,11 @@
 {
-  "name": "ILOVEYOUUU RIRII ᰔᩚ",
-  "short_name": "ririi",
+  "name": "ILOVEYOUUU RIRII ᰔᩚ
+  "short_name": "(ෆ˙ᵕ˙ෆ)♡",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffc1e3",
   "theme_color": "#ffc1e3",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "images/heart.gif",
